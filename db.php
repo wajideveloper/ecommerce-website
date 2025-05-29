@@ -1,8 +1,8 @@
 <?php
 
 $servername="127.0.0.1:3309"; //KALI IP address
-$username = "testAIH";
-$password = "Test123$";
+$username = "root";
+$password = "";
 $db = "ecommerce"; //do not change
 
 // Create connection
